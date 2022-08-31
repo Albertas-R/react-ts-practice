@@ -28,13 +28,6 @@ hr {
   margin: 3.2rem 0;
 }
 
-.container {
-  width: 100%;
-  margin: auto;
-
-  /* border: 1px solid green; */
-}
-
 .title-info {
   display: flex;
   align-items: center;
@@ -48,8 +41,6 @@ hr {
   display: flex;
   flex-wrap: wrap;
   width: 50%;
-
-  /* border: 3px solid red; */
 }
 
 .dropdown-header {
@@ -70,8 +61,6 @@ hr {
 
 .dropdown-list {
   width: 100%;
-
-  /* border: 3px solid green; */
 }
 
 .dropdown-list li {
@@ -98,21 +87,3 @@ button:hover {
   font-weight: bold;
   background-color: rgba(144, 238, 144, 0.4);
 }
-
-/*
-// original create-react-app CSS
-
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-*/
